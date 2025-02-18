@@ -1,0 +1,101 @@
+paciente_id,doctor_id,fecha_consulta,notas
+91,2,2025-01-07,Control de presión
+8,7,2024-07-28,Paciente estable
+74,17,2024-11-19,Mejoría notable
+45,22,2024-12-18,Mejoría notable
+65,17,2024-06-14,Requiere seguimiento
+64,29,2024-10-19,Reacción controlada
+22,26,2024-09-30,Paciente estable
+20,1,2024-05-21,Insulina administrada
+55,15,2024-03-12,Mejoría notable
+83,22,2024-09-13,Mejoría notable
+21,23,2024-08-17,Control de presión
+28,28,2024-06-20,Paciente estable
+27,16,2024-02-25,Insulina administrada
+52,24,2024-06-16,Control de presión
+13,15,2024-10-23,Paciente estable
+4,23,2024-06-30,Mejoría notable
+23,9,2024-10-04,Requiere seguimiento
+84,15,2024-03-28,Control de presión
+9,15,2024-08-07,Insulina administrada
+84,14,2024-11-23,Paciente estable
+95,4,2024-06-06,Control de presión
+20,30,2024-05-15,Mejoría notable
+47,6,2024-08-12,Necesita exámenes adicionales
+37,3,2024-06-15,Control de presión
+6,1,2024-06-06,Control de presión
+76,5,2024-10-05,Necesita exámenes adicionales
+98,23,2024-12-24,Necesita exámenes adicionales
+67,15,2024-08-23,Reacción controlada
+62,30,2024-12-30,Reacción controlada
+40,26,2024-03-08,Reacción controlada
+4,24,2024-05-12,Control de presión
+5,24,2024-10-14,Reacción controlada
+26,2,2024-09-17,Reacción controlada
+53,24,2025-01-17,Insulina administrada
+90,30,2024-07-01,Necesita exámenes adicionales
+58,4,2024-07-06,Reacción controlada
+48,23,2024-09-19,Requiere seguimiento
+44,13,2024-05-27,Reacción controlada
+24,16,2025-02-01,Mejoría notable
+66,25,2024-05-28,Requiere seguimiento
+74,9,2024-03-06,Insulina administrada
+44,2,2024-12-09,Insulina administrada
+45,4,2024-07-21,Paciente estable
+57,1,2024-07-03,Reacción controlada
+26,16,2024-11-26,Reacción controlada
+56,15,2024-06-18,Insulina administrada
+46,4,2024-10-27,Mejoría notable
+37,18,2025-02-05,Mejoría notable
+11,2,2024-11-28,Requiere seguimiento
+40,28,2024-06-22,Reacción controlada
+29,27,2025-01-26,Reacción controlada
+55,3,2025-01-24,Requiere seguimiento
+21,10,2024-09-26,Necesita exámenes adicionales
+94,22,2024-09-15,Requiere seguimiento
+42,25,2024-09-08,Insulina administrada
+91,6,2024-10-16,Reacción controlada
+57,20,2024-09-05,Requiere seguimiento
+66,3,2024-04-16,Reacción controlada
+18,28,2024-08-22,Insulina administrada
+81,10,2024-09-03,Mejoría notable
+84,3,2025-01-18,Paciente estable
+100,2,2024-11-29,Control de presión
+69,5,2024-05-19,Mejoría notable
+36,21,2024-04-28,Mejoría notable
+66,21,2024-04-22,Insulina administrada
+34,1,2024-10-21,Requiere seguimiento
+79,19,2024-09-03,Reacción controlada
+96,25,2024-10-10,Control de presión
+9,3,2024-08-21,Paciente estable
+91,13,2024-12-06,Necesita exámenes adicionales
+18,22,2024-07-02,Reacción controlada
+5,14,2024-12-26,Control de presión
+84,2,2024-11-16,Mejoría notable
+76,3,2024-08-11,Requiere seguimiento
+43,23,2024-08-12,Mejoría notable
+98,24,2025-01-27,Paciente estable
+46,14,2024-09-06,Necesita exámenes adicionales
+40,5,2024-09-12,Insulina administrada
+86,12,2024-04-14,Requiere seguimiento
+44,17,2024-06-23,Reacción controlada
+63,29,2024-02-25,Paciente estable
+59,25,2024-06-21,Necesita exámenes adicionales
+80,20,2024-10-06,Control de presión
+37,26,2024-11-25,Necesita exámenes adicionales
+17,21,2024-03-18,Insulina administrada
+89,26,2024-09-10,Necesita exámenes adicionales
+26,15,2024-10-31,Paciente estable
+31,27,2025-01-07,Requiere seguimiento
+52,15,2024-06-08,Reacción controlada
+85,27,2025-01-18,Insulina administrada
+46,1,2025-01-29,Control de presión
+37,27,2025-02-05,Reacción controlada
+94,12,2024-06-10,Necesita exámenes adicionales
+50,16,2024-12-30,Necesita exámenes adicionales
+52,6,2024-11-21,Control de presión
+11,21,2024-11-17,Control de presión
+75,18,2024-06-01,Insulina administrada
+47,10,2024-10-21,Control de presión
+23,18,2024-06-17,Requiere seguimiento
+54,21,2024-07-11,Mejoría notable

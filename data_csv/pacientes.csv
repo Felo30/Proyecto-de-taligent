@@ -1,0 +1,101 @@
+nombre_paciente,fecha_ingreso,diagnostico,tratamiento,costo_tratamiento,seguimiento
+Nicholas Mendoza,2024-09-10,Gastritis,Fisioterapia,1581.05,Control semanal
+David Thornton,2024-06-30,Diabetes,Medicamentos,507.06,Fisioterapia
+Peter Martin,2024-06-28,Gripe,Reposo,2768.39,Evitar alérgenos
+Sandra Nelson,2024-04-16,Diabetes,Paracetamol,2442.01,Fisioterapia
+Matthew Green,2024-12-11,Fractura,Medicamentos,3013.14,Evitar alérgenos
+Elizabeth Smith,2024-06-29,Alergia,Insulina,4265.37,Control semanal
+Paul Reed,2024-10-25,Asma,Yeso,3279.21,Evitar alérgenos
+Miguel Rodriguez,2024-08-13,Hipertensión,Dieta controlada,4183.35,Fisioterapia
+Daniel Griffin,2024-07-07,Asma,Medicamentos,4034.36,Control semanal
+Kelly Ewing,2024-03-08,Neumonía,Antialérgicos,2269.59,Control semanal
+Mary Lee,2024-04-14,Gastritis,Medicamentos,3609.45,Revisión
+Danielle Brooks,2024-08-03,Fractura,Paracetamol,3608.77,Control semanal
+Joseph Ferguson,2025-01-03,Migraña,Medicamentos,4315.39,Revisión
+Joshua Bender,2024-04-09,Alergia,Dieta controlada,4067.06,Control mensual
+Stefanie Morris,2024-10-15,Hipertensión,Reposo,3414.81,Fisioterapia
+George Lam,2024-05-19,Asma,Insulina,1910.81,Fisioterapia
+Katrina Nolan,2024-06-24,Diabetes,Yeso,1181.36,Revisión
+William Smith,2024-11-04,Hipertensión,Insulina,1621.68,Revisión
+Ralph Gibson,2024-06-19,Gastritis,Antialérgicos,3764.01,Control mensual
+James Logan,2024-09-09,Gripe,Antialérgicos,1997.99,Control semanal
+Rachel Carter,2024-06-28,Gripe,Reposo,4710.05,Revisión
+Michael Campbell,2024-11-22,Gripe,Fisioterapia,1107.11,Control semanal
+Juan Lee,2024-06-16,Diabetes,Antialérgicos,160.81,Exámenes adicionales
+Christopher Lee,2025-02-13,Migraña,Medicamentos,566.7,Evitar alérgenos
+Crystal Quinn,2024-05-23,Alergia,Paracetamol,4951.35,Fisioterapia
+Nicole Ashley,2025-01-01,Gripe,Dieta controlada,4649.77,Control semanal
+Richard Castro,2024-06-15,Hipertensión,Reposo,2557.04,Evitar alérgenos
+Austin Mitchell,2024-07-07,Alergia,Medicamentos,399.26,Exámenes adicionales
+Travis Richardson,2024-04-04,Asma,Dieta controlada,3056.07,Fisioterapia
+Patricia Bryant,2024-08-29,Fractura,Fisioterapia,3195.88,Evitar alérgenos
+Debra Patterson,2024-08-17,Asma,Paracetamol,4314.92,Revisión
+Deanna Christensen,2024-03-13,Neumonía,Insulina,3060.6,Revisión
+Omar Perez,2024-09-17,Fractura,Fisioterapia,4093.16,Control semanal
+Phillip Ayers,2025-01-04,Hipertensión,Paracetamol,1217.23,Control mensual
+Raymond Salas,2024-09-20,Alergia,Paracetamol,713.4,Fisioterapia
+James Gutierrez,2024-04-01,Migraña,Dieta controlada,1445.85,Exámenes adicionales
+Michelle Davenport,2024-06-18,Fractura,Paracetamol,1108.65,Revisión
+Veronica Harper,2024-07-20,Alergia,Fisioterapia,2105.73,Fisioterapia
+Bruce Sherman,2024-10-28,Hipertensión,Yeso,3151.59,Revisión
+Terrance Griffin,2024-03-27,Hipertensión,Dieta controlada,4214.39,Control semanal
+Jeffrey Sanchez,2024-02-27,Gripe,Paracetamol,1125.27,Fisioterapia
+Rose Rowe,2025-02-12,Fractura,Antialérgicos,4625.87,Evitar alérgenos
+Tina Kramer,2024-11-29,Alergia,Yeso,3925.28,Revisión
+Susan Willis,2024-06-09,Migraña,Medicamentos,2075.71,Evitar alérgenos
+Thomas Perez,2024-09-13,Gastritis,Reposo,3304.46,Exámenes adicionales
+Sue Bonilla,2024-05-19,Hipertensión,Yeso,4544.5,Control mensual
+Julie Dennis,2024-06-04,Neumonía,Antialérgicos,100.66,Exámenes adicionales
+Sara White,2024-12-16,Asma,Yeso,510.31,Control mensual
+Bailey Davis,2024-05-26,Diabetes,Dieta controlada,210.53,Control mensual
+Shawn Becker,2024-05-30,Hipertensión,Medicamentos,3766.06,Fisioterapia
+Grace Brooks,2024-11-12,Neumonía,Paracetamol,3762.79,Control semanal
+Jason Diaz,2024-08-05,Fractura,Dieta controlada,3088.94,Revisión
+Robert Evans,2024-06-13,Fractura,Medicamentos,1540.7,Control semanal
+Alexis Ross,2024-04-21,Gastritis,Yeso,2916.81,Control semanal
+Becky Stout,2024-05-31,Gastritis,Fisioterapia,2761.06,Control mensual
+Whitney Rodriguez,2024-08-31,Neumonía,Paracetamol,608.07,Control mensual
+David Smith,2025-02-10,Fractura,Paracetamol,3544.94,Control mensual
+Katherine Pace,2024-03-09,Migraña,Reposo,70.45,Control mensual
+Jeffrey Richardson,2024-12-28,Alergia,Antialérgicos,554.14,Evitar alérgenos
+Kristina Stephens,2024-12-18,Diabetes,Yeso,4943.49,Control semanal
+Robert Dixon,2024-10-02,Gastritis,Yeso,3171.96,Exámenes adicionales
+Michael Ingram,2024-08-10,Hipertensión,Paracetamol,4401.1,Fisioterapia
+Heather Wagner,2024-10-15,Asma,Fisioterapia,2017.31,Evitar alérgenos
+Miranda Lloyd,2024-10-14,Hipertensión,Dieta controlada,2283.11,Control semanal
+Steven Rodriguez,2024-09-18,Diabetes,Fisioterapia,4158.37,Fisioterapia
+Allison Hamilton,2024-03-19,Fractura,Insulina,3243.16,Evitar alérgenos
+Allen Barnett,2025-01-26,Gripe,Paracetamol,2604.29,Evitar alérgenos
+Brianna Landry,2024-05-16,Migraña,Paracetamol,674.84,Exámenes adicionales
+Emily Faulkner,2024-02-26,Hipertensión,Reposo,1018.5,Fisioterapia
+Joseph Sanders,2024-12-21,Fractura,Yeso,4266.45,Exámenes adicionales
+Scott Cruz,2024-07-02,Fractura,Antialérgicos,826.29,Control semanal
+Christopher Quinn Jr.,2024-09-07,Asma,Fisioterapia,1519.65,Fisioterapia
+Mark Newman,2024-11-06,Alergia,Fisioterapia,4853.03,Exámenes adicionales
+Cody Newton,2024-06-06,Diabetes,Fisioterapia,1728.25,Control mensual
+Vincent Walker,2024-09-08,Diabetes,Antialérgicos,4717.17,Fisioterapia
+Mary Black,2024-11-10,Gripe,Fisioterapia,977.9,Control semanal
+Samuel Smith,2024-07-03,Gastritis,Paracetamol,1639.46,Fisioterapia
+Alicia Roberts,2024-09-03,Hipertensión,Fisioterapia,887.62,Control mensual
+Joseph Gross,2024-12-30,Migraña,Insulina,768.67,Control mensual
+Amber Irwin,2024-03-05,Gripe,Paracetamol,4216.37,Fisioterapia
+Stacey Russell,2024-06-18,Hipertensión,Insulina,3642.31,Evitar alérgenos
+Dennis Copeland,2025-01-20,Hipertensión,Medicamentos,3230.72,Control semanal
+Allison Nolan,2024-10-03,Gripe,Medicamentos,4477.01,Control mensual
+Kristin Stanley,2024-11-08,Neumonía,Antialérgicos,187.46,Control semanal
+Anthony Reynolds,2024-05-24,Fractura,Dieta controlada,1816.48,Exámenes adicionales
+Justin Flowers,2024-06-05,Hipertensión,Insulina,2174.32,Control semanal
+Kathleen Torres,2024-10-05,Alergia,Antialérgicos,3065.12,Exámenes adicionales
+Jonathan Morgan,2024-09-28,Fractura,Medicamentos,4306.18,Control mensual
+Rebecca Simpson,2024-04-24,Migraña,Yeso,1809.13,Exámenes adicionales
+Scott Gallagher,2024-04-30,Gripe,Dieta controlada,2318.58,Exámenes adicionales
+Gregg Hayden,2024-03-04,Hipertensión,Insulina,2512.69,Control mensual
+Robert Martin,2024-09-12,Fractura,Medicamentos,2449.13,Exámenes adicionales
+Erik Gaines,2024-02-28,Neumonía,Antialérgicos,2857.74,Exámenes adicionales
+Angela Moss,2024-06-09,Gripe,Antialérgicos,502.5,Exámenes adicionales
+Eric Gross,2024-09-27,Neumonía,Medicamentos,4201.44,Control semanal
+Cameron Cannon,2024-09-04,Diabetes,Reposo,4582.01,Exámenes adicionales
+Tammy Carpenter,2024-03-20,Migraña,Insulina,4223.19,Evitar alérgenos
+Jeffrey Dawson DDS,2024-10-12,Gripe,Antialérgicos,1546.49,Fisioterapia
+Michael Hernandez,2024-09-12,Migraña,Medicamentos,1348.41,Evitar alérgenos
+Christopher Woodard,2024-12-15,Migraña,Dieta controlada,2610.33,Fisioterapia
